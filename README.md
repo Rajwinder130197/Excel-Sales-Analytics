@@ -20,7 +20,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Rajwinder130197/Excel-Sales-Analytics/blob/main/Profit%20%26%20Loss%20by%20fiscal%20year.pdf)_ & _[Months](https://github.com/Rajwinder130197/Excel-Sales-Analytics/blob/main/Profit%20%26%20Loss%20by%20fiscal%20month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Rajwinder130197/Excel-Sales-Analytics/blob/main/Profit%20%26%20loss%20by%20market.pdf)_
   
    **3.** Create a Gross Margin reports by_[Quarters](https://github.com/Rajwinder130197/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
